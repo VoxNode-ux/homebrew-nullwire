@@ -1,4 +1,3 @@
-```ruby
 # Homebrew formula for NullWire-MCP, generated from packaging/nullwire-mcp.rb.tmpl
 # by packaging/render.sh. Do not edit the generated file by hand.
 class NullwireMcp < Formula
@@ -48,4 +47,3 @@ class NullwireMcp < Formula
     system bin/"nullwire-mcp", "install", "--list"
   end
 end
-```
